@@ -190,11 +190,10 @@ After all the changes, the dataframe looks like this:
 
 # Exploratory Analysis
 With the cleaned data it is now possible to make an exploratory analysis of the dataset.  
-The data is divided in subregions which are:
+The data is divided in subregions which are divided as such:  
+<img src="https://github.com/DakoDC/Pandas-vs-Polars-Analysis/blob/main/United_Nations_geographical_subregions.png">  
 
 A few of the insights gained from the analysis are:  
-
-
 - Subregions with largest increase and decrease in population in percentage:
 ```
 # Pandas
